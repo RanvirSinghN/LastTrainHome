@@ -6,7 +6,7 @@ Last train home is a small indie experience I created for fun using gpt 6 astra 
 
 ## How to Play:
 
-You can download the release zip by clicking on the release title located under releases on the right in the repo. Then click the title of the zip to download it onto your computer. To run the game extract the zip file and run the application. The game was built in Godot4 but Godot is not required to run the app. 
+You can download the release zip by clicking on the release title located under releases on the right in the repo. Then click the title of the zip (LastTrainHome-1.0.0-macOS.zip) to download it onto your computer. To run the game extract the zip file and run the application. The game was built in Godot4 but Godot is not required to run the app. 
 
 ONLY COMPATIBLE W/ MACOS
 
