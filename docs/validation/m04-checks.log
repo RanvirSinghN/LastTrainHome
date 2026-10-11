@@ -1,0 +1,37 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M4
+
+PASS: Talking through E opens dialogue and locks the world
+PASS: Complete lines are the default
+PASS: Speaker and placeholder portrait are displayed
+PASS: A second conversation cannot overlap the active one
+PASS: Walking remains locked during choices
+PASS: Held confirm echo cannot make a choice
+PASS: First available choice gets deliberate keyboard focus
+PASS: Keyboard choice commits enum and bounded trust
+PASS: Choice reaches its authored response
+PASS: Stale choice cannot farm trust
+PASS: Response returns to the topic hub
+PASS: Topic action commits through GameState
+PASS: Repeated topic uses its exhausted response
+PASS: Leave returns to exploration and clears resume node
+PASS: Returning selects the truthful callback
+PASS: Escape cannot dismiss a required line
+PASS: Required line has no leave button
+PASS: Current required line has a stable resume ID
+PASS: P pauses a required line
+PASS: Pause and cancelled reset restore the required line
+PASS: Confirmed reset clears active required dialogue
+PASS: Reset clears transcript and seen IDs
+PASS: Reset permits the alternate tone
+PASS: Returning selects the lie callback
+PASS: Transcript records the actual callback, not the other branch
+PASS: Typewriter preference reveals text before enabling choices
+PASS: First confirm reveals the line without choosing
+PASS: Second confirm chooses the focused response
+PASS: Typewriter stops while paused
+PASS: Topic controls fit the minimum viewport
+PASS: Dialogue fixture rendered for visual review
+PASS: Missing dialogue node reference is rejected
+PASS: Missing choice action reference is rejected
+M04 RESULT: 33 checks, 0 failures

@@ -1,0 +1,345 @@
+[
+  {
+    "path": "audio/ambience/exterior_wind.wav",
+    "category": "Ambience",
+    "caption": "exterior wind",
+    "duration": 12.0,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/ambience/indoor_wind.wav",
+    "category": "Ambience",
+    "caption": "indoor wind",
+    "duration": 12.0,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/ambience/platform_rain.wav",
+    "category": "Ambience",
+    "caption": "platform rain",
+    "duration": 12.0,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/ambience/window_rain.wav",
+    "category": "Ambience",
+    "caption": "window rain",
+    "duration": 12.0,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/ambience/fluorescent_hum.wav",
+    "category": "Ambience",
+    "caption": "fluorescent hum",
+    "duration": 12.0,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/ambience/small_heater.wav",
+    "category": "Ambience",
+    "caption": "small heater",
+    "duration": 12.0,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/ambience/distant_rail_bed.wav",
+    "category": "Ambience",
+    "caption": "distant rail bed",
+    "duration": 12.0,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/platform_step_1.wav",
+    "category": "Footsteps",
+    "caption": "platform footstep",
+    "duration": 0.22,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/platform_step_2.wav",
+    "category": "Footsteps",
+    "caption": "platform footstep",
+    "duration": 0.22,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/platform_step_3.wav",
+    "category": "Footsteps",
+    "caption": "platform footstep",
+    "duration": 0.22,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/tile_step_1.wav",
+    "category": "Footsteps",
+    "caption": "tile footstep",
+    "duration": 0.22,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/tile_step_2.wav",
+    "category": "Footsteps",
+    "caption": "tile footstep",
+    "duration": 0.22,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/tile_step_3.wav",
+    "category": "Footsteps",
+    "caption": "tile footstep",
+    "duration": 0.22,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/wood_step_1.wav",
+    "category": "Footsteps",
+    "caption": "wood footstep",
+    "duration": 0.22,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/wood_step_2.wav",
+    "category": "Footsteps",
+    "caption": "wood footstep",
+    "duration": 0.22,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/wood_step_3.wav",
+    "category": "Footsteps",
+    "caption": "wood footstep",
+    "duration": 0.22,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/door_open.wav",
+    "category": "Practical effects",
+    "caption": "door open",
+    "duration": 0.7,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/door_close.wav",
+    "category": "Practical effects",
+    "caption": "door close",
+    "duration": 0.6,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/key_lock.wav",
+    "category": "Practical effects",
+    "caption": "key lock",
+    "duration": 0.25,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/upper_gate.wav",
+    "category": "Practical effects",
+    "caption": "upper gate",
+    "duration": 1.1,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/paper_turn.wav",
+    "category": "Practical effects",
+    "caption": "paper turn",
+    "duration": 0.5,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/pen.wav",
+    "category": "Practical effects",
+    "caption": "pen",
+    "duration": 0.35,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/cup.wav",
+    "category": "Practical effects",
+    "caption": "cup",
+    "duration": 0.3,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/vending_relay.wav",
+    "category": "Practical effects",
+    "caption": "vending relay",
+    "duration": 0.2,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/cartridge_insert.wav",
+    "category": "Practical effects",
+    "caption": "cartridge insert",
+    "duration": 0.25,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/panel_switch.wav",
+    "category": "Practical effects",
+    "caption": "panel switch",
+    "duration": 0.15,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/reset_relay.wav",
+    "category": "Practical effects",
+    "caption": "reset relay",
+    "duration": 0.35,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/tape_insert.wav",
+    "category": "Practical effects",
+    "caption": "tape insert",
+    "duration": 0.3,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/play_stop.wav",
+    "category": "Practical effects",
+    "caption": "play stop",
+    "duration": 0.2,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/ticket_punch.wav",
+    "category": "Practical effects",
+    "caption": "ticket punch",
+    "duration": 0.2,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/train_door.wav",
+    "category": "Practical effects",
+    "caption": "train door",
+    "duration": 1.8,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/effects/ui_confirm.wav",
+    "category": "Practical effects",
+    "caption": "ui confirm",
+    "duration": 0.18,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/narrative/tape_hiss.wav",
+    "category": "Narrative textures",
+    "caption": "tape hiss",
+    "duration": 12.0,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/narrative/carriage_wheels.wav",
+    "category": "Narrative textures",
+    "caption": "carriage wheels",
+    "duration": 12.0,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/narrative/rail_scrape.wav",
+    "category": "Narrative textures",
+    "caption": "rail scrape",
+    "duration": 2.2,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/narrative/rail_pass.wav",
+    "category": "Narrative textures",
+    "caption": "rail pass",
+    "duration": 3.5,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/narrative/speaker_click.wav",
+    "category": "Narrative textures",
+    "caption": "speaker click",
+    "duration": 0.15,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/narrative/recorder_signal.wav",
+    "category": "Narrative textures",
+    "caption": "recorder signal",
+    "duration": 0.7,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/voice/holding.wav",
+    "category": "Recorded speech",
+    "caption": "The Lowmere service is delayed. Please remain where you can hear further information.",
+    "duration": 10.940333333333333,
+    "source": "Original text; macOS Samantha system TTS; dry masters retained"
+  },
+  {
+    "path": "audio/voice/control_cancel.wav",
+    "category": "Recorded speech",
+    "caption": "Zero one fifteen. L seven cancelled. Do not advise passengers to wait for rail transport. Road assistance requested.",
+    "duration": 8.469541666666666,
+    "source": "Original text; macOS Samantha system TTS; dry masters retained"
+  },
+  {
+    "path": "audio/voice/rowan_recording.wav",
+    "category": "Recorded speech",
+    "caption": "Rowan, level check. The Lowmere service is delayed. Please remain where you can hear further information.",
+    "duration": 6.541375,
+    "source": "Original text; macOS Samantha system TTS; dry masters retained"
+  },
+  {
+    "path": "audio/voice/correction.wav",
+    "category": "Recorded speech",
+    "caption": "For the Bellwether record: L seven was cancelled at zero one fifteen. The later announcement was incorrect. Ada Vale left to inspect the lower route for the people waiting here. We left by road. This statement is being made on the seventeenth of October, twenty twenty six.",
+    "duration": 17.123666666666665,
+    "source": "Original text; macOS Samantha system TTS; dry masters retained"
+  },
+  {
+    "path": "audio/voice/next_stop.wav",
+    "category": "Recorded speech",
+    "caption": "The next stop is Lowmere.",
+    "duration": 1.5875416666666666,
+    "source": "Original text; macOS Samantha system TTS; dry masters retained"
+  },
+  {
+    "path": "audio/voice/blocked_line.wav",
+    "category": "Recorded speech",
+    "caption": "Zero one twelve. Cutting blocked. No through movement.",
+    "duration": 3.6397916666666665,
+    "source": "Original text; macOS Samantha system TTS; dry masters retained"
+  },
+  {
+    "path": "audio/music/opening.wav",
+    "category": "Music",
+    "caption": "opening music cue",
+    "duration": 36.0,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/music/discovery.wav",
+    "category": "Music",
+    "caption": "discovery music cue",
+    "duration": 60.0,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/music/road.wav",
+    "category": "Music",
+    "caption": "road music cue",
+    "duration": 48.0,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/music/carriage.wav",
+    "category": "Music",
+    "caption": "carriage music cue",
+    "duration": 48.0,
+    "source": "Original deterministic synthesis"
+  },
+  {
+    "path": "audio/music/desk.wav",
+    "category": "Music",
+    "caption": "desk music cue",
+    "duration": 48.0,
+    "source": "Original deterministic synthesis"
+  }
+]
